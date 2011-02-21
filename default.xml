@@ -23,13 +23,33 @@
   <project path="dalvik" name="zyiro/android_dalvik" remote="github" />
   <project path="development" name="zyiro/android_development" remote="github" />
 
-  <project path="device/common" name="device/common" />
+
+  <project path="device/bn/encore" name="CyanogenMod/android_device_bn_encore" remote="github" />
+  <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="github" />
+  <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" remote="github" />
+  <project path="device/huawei/ascend" name="CyanogenMod/android_device_huawei_ascend" remote="github" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" remote="github" />
+  <project path="device/htc/bravo" name="CyanogenMod/android_device_htc_bravo" remote="github" />
+  <project path="device/htc/bravoc" name="CyanogenMod/android_device_htc_bravoc" remote="github" />
+  <project path="device/htc/buzz" name="CyanogenMod/android_device_htc_buzz" remote="github" />
+  <project path="device/htc/click" name="CyanogenMod/android_device_htc_click" remote="github" />
+  <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" remote="github" />
+  <project path="device/htc/inc" name="CyanogenMod/android_device_htc_inc" remote="github" />
+  <project path="device/htc/glacier" name="CyanogenMod/android_device_htc_glacier" remote="github" />
+  <project path="device/htc/hero" name="CyanogenMod/android_device_htc_hero" remote="github" />
+  <project path="device/htc/heroc" name="CyanogenMod/android_device_htc_heroc" remote="github" />
+  <project path="device/htc/legend" name="CyanogenMod/android_device_htc_legend" remote="github" />
+  <project path="device/htc/leo" name="CyanogenMod/android_device_htc_leo" remote="github" />
+  <project path="device/htc/liberty" name="CyanogenMod/android_device_htc_liberty" remote="github" />
+  <project path="device/htc/passion" name="CyanogenMod/android_device_htc_passion" remote="github" />
+  <project path="device/htc/passion-common" name="CyanogenMod/android_device_htc_passion-common" remote="github" />
+  <project path="device/htc/supersonic" name="CyanogenMod/android_device_htc_supersonic" remote="github" />
+  <project path="device/htc/vision" name="CyanogenMod/android_device_htc_vision" remote="github" />
+  <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
+  <project path="device/nvidia/harmony" name="CyanogenMod/android_device_harmony" remote="github" />
 
-  <project path="device/motorola/sholes" name="zyiro/android_device_motorola_sholes" remote="github" />
-  <project path="device/sample" name="device/sample" />
- 
+
   <project path="external/alsa-lib" name="zyiro/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="zyiro/android_external_alsa-utils" remote="github" />
   <project path="external/apache-http" name="platform/external/apache-http" />
