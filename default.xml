@@ -24,34 +24,10 @@
   <project path="development" name="zyiro/android_development" remote="github" />
 
   <project path="device/common" name="device/common" />
-  <project path="device/bn/encore" name="zyiro/android_device_bn_encore" remote="github" />
-  <project path="device/commtiva/z71" name="zyiro/android_device_commtiva_z71" remote="github" />
-  <project path="device/geeksphone/one" name="zyiro/android_device_geeksphone_one" remote="github" />
-  <project path="device/huawei/ascend" name="zyiro/android_device_huawei_ascend" remote="github" />
-  <project path="device/htc/common" name="zyiro/android_device_htc_common" remote="github" />
-  <project path="device/htc/ace" name="zyiro/android_device_htc_ace" remote="github" />
-  <project path="device/htc/bravo" name="zyiro/android_device_htc_bravo" remote="github" />
-  <project path="device/htc/bravoc" name="zyiro/android_device_htc_bravoc" remote="github" />
-  <project path="device/htc/buzz" name="zyiro/android_device_htc_buzz" remote="github" />
-  <project path="device/htc/click" name="zyiro/android_device_htc_click" remote="github" />
-  <project path="device/htc/espresso" name="zyiro/android_device_htc_espresso" remote="github" />
-  <project path="device/htc/inc" name="zyiro/android_device_htc_inc" remote="github" />
-  <project path="device/htc/glacier" name="zyiro/android_device_htc_glacier" remote="github" />
-  <project path="device/htc/hero" name="zyiro/android_device_htc_hero" remote="github" />
-  <project path="device/htc/heroc" name="zyiro/android_device_htc_heroc" remote="github" />
-  <project path="device/htc/legend" name="zyiro/android_device_htc_legend" remote="github" />
-  <project path="device/htc/leo" name="zyiro/android_device_htc_leo" remote="github" />
-  <project path="device/htc/liberty" name="zyiro/android_device_htc_liberty" remote="github" />
-  <project path="device/htc/passion" name="zyiro/android_device_htc_passion" remote="github" />
-  <project path="device/htc/passion-common" name="zyiro/android_device_htc_passion-common" remote="github" />
-  <project path="device/htc/supersonic" name="zyiro/android_device_htc_supersonic" remote="github" />
-  <project path="device/htc/vision" name="zyiro/android_device_htc_vision" remote="github" />
+  
   <project path="device/motorola/sholes" name="zyiro/android_device_motorola_sholes" remote="github" />
-  <project path="device/nvidia/harmony" name="zyiro/android_device_harmony" remote="github" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/crespo" name="zyiro/android_device_samsung_crespo" remote="github" />
-  <project path="device/zte/blade" name="zyiro/android_device_zte_blade" remote="github" />
-
+ 
   <project path="external/alsa-lib" name="zyiro/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="zyiro/android_external_alsa-utils" remote="github" />
   <project path="external/apache-http" name="platform/external/apache-http" />
