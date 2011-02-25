@@ -22,7 +22,7 @@
   <project path="bootable/recovery" name="zyiro/android_bootable_recovery" remote="github" />
   <project path="dalvik" name="zyiro/android_dalvik" remote="github" />
   <project path="development" name="zyiro/android_development" remote="github" />
-  <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
+  <project path="device/motorola/sholes" name="zyiro/android_device_motorola_sholes" remote="github" />
 
 
 
