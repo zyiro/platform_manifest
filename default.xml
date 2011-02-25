@@ -22,32 +22,8 @@
   <project path="bootable/recovery" name="zyiro/android_bootable_recovery" remote="github" />
   <project path="dalvik" name="zyiro/android_dalvik" remote="github" />
   <project path="development" name="zyiro/android_development" remote="github" />
-
-
-  <project path="device/bn/encore" name="CyanogenMod/android_device_bn_encore" remote="github" />
-  <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="github" />
-  <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" remote="github" />
-  <project path="device/huawei/ascend" name="CyanogenMod/android_device_huawei_ascend" remote="github" />
-  <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
-  <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" remote="github" />
-  <project path="device/htc/bravo" name="CyanogenMod/android_device_htc_bravo" remote="github" />
-  <project path="device/htc/bravoc" name="CyanogenMod/android_device_htc_bravoc" remote="github" />
-  <project path="device/htc/buzz" name="CyanogenMod/android_device_htc_buzz" remote="github" />
-  <project path="device/htc/click" name="CyanogenMod/android_device_htc_click" remote="github" />
-  <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" remote="github" />
-  <project path="device/htc/inc" name="CyanogenMod/android_device_htc_inc" remote="github" />
-  <project path="device/htc/glacier" name="CyanogenMod/android_device_htc_glacier" remote="github" />
-  <project path="device/htc/hero" name="CyanogenMod/android_device_htc_hero" remote="github" />
-  <project path="device/htc/heroc" name="CyanogenMod/android_device_htc_heroc" remote="github" />
-  <project path="device/htc/legend" name="CyanogenMod/android_device_htc_legend" remote="github" />
-  <project path="device/htc/leo" name="CyanogenMod/android_device_htc_leo" remote="github" />
-  <project path="device/htc/liberty" name="CyanogenMod/android_device_htc_liberty" remote="github" />
-  <project path="device/htc/passion" name="CyanogenMod/android_device_htc_passion" remote="github" />
-  <project path="device/htc/passion-common" name="CyanogenMod/android_device_htc_passion-common" remote="github" />
-  <project path="device/htc/supersonic" name="CyanogenMod/android_device_htc_supersonic" remote="github" />
-  <project path="device/htc/vision" name="CyanogenMod/android_device_htc_vision" remote="github" />
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
-  <project path="device/nvidia/harmony" name="CyanogenMod/android_device_harmony" remote="github" />
+
 
 
   <project path="external/alsa-lib" name="zyiro/android_external_alsa-lib" remote="github" />
@@ -157,8 +133,6 @@
   <project path="hardware/libhardware" name="zyiro/android_hardware_libhardware" remote="github" />
   <project path="hardware/libhardware_legacy" name="zyiro/android_hardware_libhardware_legacy" remote="github" />
   <project path="hardware/msm7k" name="zyiro/android_hardware_msm7k" remote="github" />
-  <project path="hardware/qcom/gps" name="zyiro/android_hardware_qcom_gps" remote="github" />
-  <project path="hardware/qcom/media" name="zyiro/android_hardware_qcom_media" remote="github" />
   <project path="hardware/ril" name="zyiro/android_hardware_ril" remote="github" />
   <project path="hardware/alsa_sound" name="zyiro/android_hardware_alsa_sound" remote="github" />
   <project path="hardware/ti/omap3" name="zyiro/android_hardware_ti_omap3" remote="github" />
@@ -168,7 +142,6 @@
   <project path="ndk" name="platform/ndk" />
 
   <project path="packages/apps/AccountsAndSyncSettings" name="platform/packages/apps/AccountsAndSyncSettings" />
-  <project path="packages/apps/ADWLauncher" name="zyiro/android_packages_apps_ADWLauncher" remote="github" />
   <project path="packages/apps/AndroidTerm" name="zyiro/android_packages_apps_AndroidTerm" remote="github" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
   <project path="packages/apps/Browser" name="zyiro/android_packages_apps_Browser" remote="github" />
@@ -176,10 +149,6 @@
   <project path="packages/apps/Calendar" name="zyiro/android_packages_apps_Calendar" remote="github" />
   <project path="packages/apps/Camera" name="zyiro/android_packages_apps_Camera" remote="github" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/CMParts" name="zyiro/android_packages_apps_CMParts" remote="github" />
-  <project path="packages/apps/CMStats" name="zyiro/android_packages_apps_CMStats" remote="github" />
-  <project path="packages/apps/CMUpdateNotify" name="zyiro/android_packages_apps_CMUpdateNotify" remote="github" />
-  <project path="packages/apps/CMWallpapers" name="zyiro/android_packages_apps_CMWallpapers" remote="github" />
   <project path="packages/apps/Contacts" name="zyiro/android_packages_apps_Contacts" remote="github" />
   <project path="packages/apps/DeskClock" name="zyiro/android_packages_apps_DeskClock" remote="github" />
   <project path="packages/apps/DSPManager" name="zyiro/android_packages_apps_DSPManager" remote="github" />
@@ -192,15 +161,12 @@
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/Mms" name="zyiro/android_packages_apps_Mms" remote="github" />
   <project path="packages/apps/Music" name="zyiro/android_packages_apps_Music" remote="github" />
-  <project path="packages/apps/Music3" name="zyiro/android_packages_apps_Music3" remote="github" />
-  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Pacman" name="zyiro/android_packages_apps_Pacman" remote="github" />
   <project path="packages/apps/Phone" name="zyiro/android_packages_apps_Phone" remote="github" />
   <project path="packages/apps/Protips" name="zyiro/android_packages_apps_Protips" remote="github" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="zyiro/android_packages_apps_Settings" remote="github" />
   <project path="packages/apps/SoundRecorder" name="zyiro/android_packages_apps_SoundRecorder" remote="github" />
   <project path="packages/apps/Superuser" name="zyiro/android_packages_apps_Superuser" remote="github" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
@@ -234,7 +200,7 @@
   <project path="system/vold" name="zyiro/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="zyiro/android_system_wlan_ti" remote="github" />
 
-  <project path="vendor/cyanogen" name="zyiro/android_vendor_cyanogen" remote="github" />
+  
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="zyiro/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
