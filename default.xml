@@ -13,7 +13,7 @@
   <default revision="gingerbread"
            remote="korg" />
 
-  <project path="build" name="zyiro/android_build" remote="github">
+  <project path="build" name="zyiro/android_build" remote="github" revision="master">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="zyiro/android_bionic" remote="github" />
