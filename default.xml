@@ -201,6 +201,7 @@
   <project path="system/vold" name="zyiro/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="zyiro/android_system_wlan_ti" remote="github" />
 
+<project path="vendor/cyanogen" name="zyiro/android_vendor_cyanogen" remote="github" />
   
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
