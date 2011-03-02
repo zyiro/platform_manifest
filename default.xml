@@ -24,6 +24,8 @@
   <project path="development" name="zyiro/android_development" remote="github" />
   <project path="device/motorola/sholes" name="zyiro/android_device_motorola_sholes" remote="github" />
   <project path="device/common" name="device/common" />
+  <project path="device/htc/glacier" name="zyiro/android_device_htc_glacier" remote="github" />
+  <project path="device/htc/common" name="zyiro/android_device_htc_common" remote="github" />
 
 
 
